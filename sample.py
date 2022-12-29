@@ -13,3 +13,5 @@ def change_mac(mac):
 
 
 macchanger
+if status:
+    print("fdfd")
