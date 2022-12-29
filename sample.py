@@ -10,3 +10,6 @@ if status:
 
 def change_mac(mac):
     pass
+
+def dhcp():
+    pass
